@@ -747,6 +747,7 @@ export default function Dashboard() {
                   width: "50%",
                   height: "80%",
                   backgroundColor: "#13202B",
+                  marginTop: "5%",
                 },
               }}
               onClose={() => {
